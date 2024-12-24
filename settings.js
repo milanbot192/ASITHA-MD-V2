@@ -6,26 +6,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID === undefined ? '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=bzAEXaBS#rpmhgi8PvtIv4tInnqPKmMK5hlMC360qmk8OLZG-1xk' : process.env.SESSION_ID,
 PREFIX: process.env.PREFIX || '.' ,
-ALIVE_MSG: process.env.ALIVE_MSG === undefined ? "*♾️ ALIVE:* ➠ 👇👇👇
-
- 💯☠️⃝🦠❗𝐖𝙷𝙰𝚃𝚂 𝐀𝙿𝙿 𝐌𝙾𝙳 𝐀𝙿𝙺 𝐀𝙽𝙳 𝐓𝙾𝙾𝙻❗🦠⃝☠️💯
-
-
-                           ⚔️⚔️    SUDHEERA - MD  ⚔️ ⚔️
-
-• group -https://chat.whatsapp.com/LBJvgUCZ4rh8AzvfKO0LTU
- 
-* WhatsApp Mod ⚙️
-* Hack Apk 📲
-* Number Banned Apk 🔒
-* Number Unbaned Apk 🔓
-* Other Tool 🎭
-* Virus Apk 🦠
-* Spam Apk 💣
-* Other app 📲
-* 📛📛📛📛📛
-
-` > |SUDHEERA - MD BOT ⚙️
+ALIVE_MSG: process.env.ALIVE_MSG === undefined ? "i.am alive now"
 
 > *Follow Us -* https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x" : process.env.ALIVE_MSG,
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"true" : process.env.AUTO_READ_STATUS,
